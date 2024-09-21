@@ -1,0 +1,45 @@
+
+body {
+    font-size: 16px;
+    width: 100%;
+}
+
+
+
+
+
+.upper-header-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 2.5rem 2rem;
+    margin: 0 -1rem;
+}
+
+.logo {
+    margin: 0 1rem;
+}
+
+.head-contacts {
+    margin: 0 1rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.email {
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.head-contacts a {
+    padding: 0.5rem 0.5rem 0 0;
+}
+
+.github {
+    display: flex;
+    flex-direction: column;
+}
+.head-contacts p {
+    margin: 0;
+}
